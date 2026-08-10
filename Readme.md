@@ -68,4 +68,12 @@ Precomputed embeddings and pca points for some of the dataset we considered are 
   + <a href="embeddings_and_pca_points/ngd_ext.parquet">ngd_ext.parquet</a>. Full metadata for an extension of the NGA dataset, comprising CLIP embeddings
   + <a href="embeddings_and_pca_points/ai_wikiart_subset.parquet">ai_wikiart_subset.parquet</a>. Full metadata for an AI subset of AI-WikiArt, comprising CLIP embeddings
   + <a href="embeddings_and_pca_points/human_wikiart_subset.parquet">human_wikiart_subset</a>. Full metadata for the a human subset of AI-WikiArt, comprising CLIP embeddings
+  * 2D pca points:
+  + <a href="embeddings_and_pca_points/pca_ai">pca_ai.npy</a>. PCA points for AI-Pastiche
+  + <a href="embeddings_and_pca_points/pca_AI_extension_oldspace.npy">pca_AI_extension_oldspace.npy</a>. PCA_points for AI-Pastiche extension.
+  + <a href="embeddings_and_pca_points/pca_nga.npy">pca_nga.npy</a>. PCA points for NGA
+  + <a href="embeddings_and_pca_points/pca_nga_extension_oldspace.npy">pca_nga_extension_oldspace.npy</a>. PCA points for NGA extension
+  + <a href="embeddings_and_pca_points/pca_ai_WikiArt_oldspace.npy">pca_ai_WikiArt_oldspace.npy</a>. PCA points for the AI subset of AI-WikiArt
+  + <a href="embeddings_and_pca_points/pca_human_WikiArt_oldspace.npy">pca_human_WikiArt_oldspace.npy</a>. PCA points for the human subset of AI-WikiArt
+  
   
