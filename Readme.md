@@ -1,12 +1,18 @@
 # Interpreting the separability of Human and AI images in CLIP's embedding space
 
-We identify a previously unreported phenomenon in CLIP representations:
+This notebook is a companion repository of the article "On the Separation of Human and AI-Generated
+Images in CLIP Embedding Space". 
+
+We address a previously unreported phenomenon in CLIP representations:
 human and AI-generated paintings spontaneously separate along the dominant
 principal directions of their joint embedding distribution, without any
-supervised objective designed to distinguish the two classes. Rather than
-exploiting this phenomenon for detection, our objective is to interpret it:
+supervised objective designed to distinguish the two classes. Our aim is to interpret it:
 we seek to identify the visual information underlying the separation and to
 trace it back from the embedding space to the image domain.
+
+<p align="center">
+  <img src="" width="900" title="2D separation">
+</p>
 
 We pursue this objective through a progressive investigation combining
 interpretable image representations with gradient-based inversion, used
