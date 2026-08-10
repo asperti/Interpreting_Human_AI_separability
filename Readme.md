@@ -58,15 +58,14 @@ aesthetic judgment.
 * <a href="interactive_analysis.py">interactive_analysis.py</a>. This file supports interactive inspection of the points in the PCA space (on click visualization). It exploits pre-computed CLIP's embeddings, provided below. 
 
 
-## Embeddings and 2D pca points
+## Metadata, Embeddings and 2D pca points
 
 Precomputed embeddings and pca points for some of the dataset we considered are avaliable in the embeddings_and_pca_points directory. We could not upload all of them in this repository due to space limitations. They are avaliable on request, or you can simply recmpute them using the available code. In more detail:
-* Embeddings:
+* Metadata and Embeddings:
   + <a href="embeddings_and_pca_points/ai_pastiche.parquet">ai_pastiche.parquet</a>. Full metadata for the first release of AI-Pastiche, comprising CLIP embeddings
   + <a href="embeddings_and_pca_points/ai_pastiche_ext.parquet">ai_pastiche_ext.parquet</a>. Full metadata for the latest extension of AI-Pastiche, comprising CLIP embeddings
-  + <a href="embeddings_and_pca_points/nga.parquet">nga.parquet</a>. Full metadata for a first subset of NGA painting, comprising CLIP embeddings
-  + <a href="embeddings_and_pca_points/ai_pastiche.parquet">ai_pastiche.parquet</a>. Full metadata for the first release of AI-Pastiche, comprising CLIP embeddings
-  + <a href="embeddings_and_pca_points/ai_pastiche.parquet">ai_pastiche.parquet</a>. Full metadata for the first release of AI-Pastiche, comprising CLIP embeddings
-  + <a href="embeddings_and_pca_points/ai_pastiche.parquet">ai_pastiche.parquet</a>. Full metadata for the first release of AI-Pastiche, comprising CLIP embeddings
-  + <a href="embeddings_and_pca_points/ai_pastiche.parquet">ai_pastiche.parquet</a>. Full metadata for the first release of AI-Pastiche, comprising CLIP embeddings
-  + <a href="embeddings_and_pca_points/ai_pastiche.parquet">ai_pastiche.parquet</a>. Full metadata for the first release of AI-Pastiche, comprising CLIP embeddings
+  + <a href="embeddings_and_pca_points/ngd.parquet">ngd.parquet</a>. Full metadata for a first subset of paintings of the National Gallery, comprising CLIP embeddings
+  + <a href="embeddings_and_pca_points/ngd_ext.parquet">ngd_ext.parquet</a>. Full metadata for an extension of the NGA dataset, comprising CLIP embeddings
+  + <a href="embeddings_and_pca_points/ai_wikiart_subset.parquet">ai_wikiart_subset.parquet</a>. Full metadata for an AI subset of AI-WikiArt, comprising CLIP embeddings
+  + <a href="embeddings_and_pca_points/human_wikiart_subset.parquet">human_wikiart_subset</a>. Full metadata for the a human subset of AI-WikiArt, comprising CLIP embeddings
+  
