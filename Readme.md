@@ -11,7 +11,7 @@ we seek to identify the visual information underlying the separation and to
 trace it back from the embedding space to the image domain.
 
 <p align="center">
-  <img src="" width="900" title="2D separation">
+  <img src="2D_PCA_projection.png" width="900" title="2D separation">
 </p>
 
 We pursue this objective through a progressive investigation combining
