@@ -63,3 +63,10 @@ aesthetic judgment.
 Precomputed embeddings and pca points for some of the dataset we considered are avaliable in the embeddings_and_pca_points directory. We could not upload all of them in this repository due to space limitations. They are avaliable on request, or you can simply recmpute them using the available code. In more detail:
 * Embeddings:
   + <a href="embeddings_and_pca_points/ai_pastiche.parquet">ai_pastiche.parquet</a>. Full metadata for the first release of AI-Pastiche, comprising CLIP embeddings
+  + <a href="embeddings_and_pca_points/ai_pastiche_ext.parquet">ai_pastiche_ext.parquet</a>. Full metadata for the latest extension of AI-Pastiche, comprising CLIP embeddings
+  + <a href="embeddings_and_pca_points/nga.parquet">nga.parquet</a>. Full metadata for a first subset of NGA painting, comprising CLIP embeddings
+  + <a href="embeddings_and_pca_points/ai_pastiche.parquet">ai_pastiche.parquet</a>. Full metadata for the first release of AI-Pastiche, comprising CLIP embeddings
+  + <a href="embeddings_and_pca_points/ai_pastiche.parquet">ai_pastiche.parquet</a>. Full metadata for the first release of AI-Pastiche, comprising CLIP embeddings
+  + <a href="embeddings_and_pca_points/ai_pastiche.parquet">ai_pastiche.parquet</a>. Full metadata for the first release of AI-Pastiche, comprising CLIP embeddings
+  + <a href="embeddings_and_pca_points/ai_pastiche.parquet">ai_pastiche.parquet</a>. Full metadata for the first release of AI-Pastiche, comprising CLIP embeddings
+  + <a href="embeddings_and_pca_points/ai_pastiche.parquet">ai_pastiche.parquet</a>. Full metadata for the first release of AI-Pastiche, comprising CLIP embeddings
