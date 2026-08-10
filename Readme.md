@@ -62,4 +62,4 @@ aesthetic judgment.
 
 Precomputed embeddings and pca points for some of the dataset we considered are avaliable in the embeddings_and_pca_points directory. We could not upload all of them in this repository due to space limitations. They are avaliable on request, or you can simply recmpute them using the available code. In more detail:
 * Embeddings:
-  + AIPastiche_emb.npy embedding for the works in the first release of AI_pastiche (9
+  + <a "embeddings/ai_pastiche.parquet">ai_pastiche.parquet</a>. Full metadata for the first release of AI-Pastiche, comprising ViT-L/14@336px embeddings
