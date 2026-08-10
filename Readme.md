@@ -36,7 +36,13 @@ Direct inversion provides a complementary and striking observation:
 substantial displacements along the dominant CLIP directions can be induced
 by image perturbations that remain nearly imperceptible to human observers,
 showing that the directions involved in the separation are highly sensitive
-to image variations with very low perceptual salience for humans. Taken
+to image variations with very low perceptual salience for humans. 
+
+<p align="center">
+  <img src="clip_movements.png" width="800" title="movements in the 2D PCA space induced through gradient ascent inversion">
+</p>
+
+Taken
 together, these results reveal a significant difference between the visual
 evidence reflected in CLIP representations and that readily accessible to
 human perception, raising broader questions about the relationship between
@@ -45,7 +51,7 @@ aesthetic judgment.
 
 <hr/>
 
-## Notebooks
+## Code and Notebooks
 
 
 
