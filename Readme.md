@@ -11,7 +11,7 @@ we seek to identify the visual information underlying the separation and to
 trace it back from the embedding space to the image domain.
 
 <p align="center">
-  <img src="2D_PCA_projection.png" width="900" title="2D separation">
+  <img src="2D_PCA_projection.png" width="800" title="2D separation">
 </p>
 
 We pursue this objective through a progressive investigation combining
@@ -23,6 +23,14 @@ explanations based on global image properties and simple local statistics,
 and point instead to distributed multiscale image structure. Multiscale
 scattering provides the most informative interpretable representation
 considered, but offers only a partial account of the phenomenon.
+
+The following picture describes the distribution of scattering features realtive
+to AI-generated images of AI-Pastiche, and Human paintings of the National Gallery
+of Art of Washington.
+
+<p align="center">
+  <img src="scattering_comparison_J3.png" width="800" title="scattering distributions for AI and Human paiintings">
+</p>
 
 Direct inversion provides a complementary and striking observation:
 substantial displacements along the dominant CLIP directions can be induced
