@@ -55,7 +55,7 @@ aesthetic judgment.
 
 * <a href="Detection_of_AI_generated_paintins.ipynb">Detection_of_AI_generated_paintings.ipynb</a>. This notebook illustrate the problem, using AI-generated images taken from <a href="https://www.kaggle.com/datasets/asperticsuniboit/deepfakedatabase">AI-Pastiche</a>, and Human paintings from the National Gallery of Art of Washington. It contains code for downloading the datasets, creating the CLIPs embeddings (for ViT-L/14@336px), computing the 2d PCA projection and visualizing it.
 
-* <href="interactive_analysis.py">interactive_analysis.py</a>. This file support interactive inspection of the points in the PCA space (on click visualization). It exploits pre-computed CLIP's embeddings, provided below. 
+* <a href="interactive_analysis.py">interactive_analysis.py</a>. This file support interactive inspection of the points in the PCA space (on click visualization). It exploits pre-computed CLIP's embeddings, provided below. 
 
 
 
