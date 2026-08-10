@@ -1,5 +1,7 @@
 # Interpreting the separability of Human and AI images in CLIP's embedding space
 
+<p align=center>[under construction]</p>
+
 This notebook is a companion repository of the article "On the Separation of Human and AI-Generated
 Images in CLIP Embedding Space". 
 
