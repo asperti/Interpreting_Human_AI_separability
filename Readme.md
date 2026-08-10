@@ -53,5 +53,7 @@ aesthetic judgment.
 
 ## Code and Notebooks
 
+* <a href="Detection_of_AI_generated_paintins.ipynb">Detection_of_AI_generated_paintings.ipynb</a>.
+
 
 
