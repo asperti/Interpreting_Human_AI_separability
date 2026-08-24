@@ -59,7 +59,7 @@ aesthetic judgment.
 
 * <a href="interactive_analysis.py">interactive_analysis.py</a>. This file supports interactive inspection of the points in the PCA space (on click visualization). It exploits pre-computed CLIP's embeddings, provided below.
   
-* <a href="pca.pkl">interactive_analysis.py</a>. Precomputed 2D PCA model for AI-Pastiche and NGA.
+* <a href="pca.pkl">pca.pkl</a>. Precomputed 2D PCA model for AI-Pastiche and NGA.
 
 
 ## Metadata, Embeddings and 2D pca points
