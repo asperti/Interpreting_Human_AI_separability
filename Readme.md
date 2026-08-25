@@ -81,5 +81,6 @@ Precomputed embeddings and pca points for some of the dataset we considered are 
   + <a href="embeddings_and_pca_points/pca_nga_extension_oldspace.npy">pca_nga_extension_oldspace.npy</a>. PCA points for NGA extension
   + <a href="embeddings_and_pca_points/pca_ai_WikiArt_oldspace.npy">pca_ai_WikiArt_oldspace.npy</a>. PCA points for the AI subset of AI-WikiArt
   + <a href="embeddings_and_pca_points/pca_human_WikiArt_oldspace.npy">pca_human_WikiArt_oldspace.npy</a>. PCA points for the human subset of AI-WikiArt
-  
-  
+
+## Scattering features
+The scattering_features directory contains precomputed scattering features for some datasets. Only a part of them are available in this repository, due to space constraints. The datasets are AI_wikiart_10K (both AI and Human), an additional subset of around 1500 AI_wikiart images used for validation, the original AI-pastiche DataSet, its recent extension (AI_pastiche_ext), and two subsets of the National Gallery of Art, respectively used in validation and testing. 
