@@ -61,7 +61,9 @@ aesthetic judgment.
   
 * <a href="pca.pkl">pca.pkl</a>. Precomputed 2D PCA model for AI-Pastiche and NGA.
 
-* <a href="torch_inversion.py">torch_inversion.py</a>. Gradient based inversion to the visual domain. The code track the displacement of the image in the 2D PCA space. The inversion can work with any differentiable features extracted from the image. It requires a score_pc1_form_image(x) function predicting the pc1 component from the image (a torch tensor). The code contains an example with CLIP, and it can be easily adpated to different models.
+* <a href="torch_inversion.py">torch_inversion.py</a>. Gradient based inversion to the visual domain. The code track the displacement of the image in the 2D PCA space. The inversion can work with any differentiable features extracted from the image. It requires a score_pc1_form_image(x) function predicting the pc1 component from the image (a torch tensor). The code contains an example with CLIP, and it can be easily adapted to different models.
+
+* <a href="torch_scattering_mlp.py">torch_scattering_mlp.py</a>. Code for training a simple, shallow MLP on precomputed scattering features. It also provides an example of usage for the features in the scattering features directory. To be used for inversion purposes, you must implement a differentiable score_pc1_form_image(x) function predicting the pc1 component from an input image x (a torch tensor). 
 
 
 ## Metadata, Embeddings and 2D pca points
