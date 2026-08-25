@@ -86,3 +86,6 @@ Precomputed embeddings and pca points for some of the dataset we considered are 
 
 ## Scattering features
 The scattering_features directory contains precomputed scattering features for some datasets. Only a part of them are available in this repository, due to space constraints. The datasets are AI_wikiart_10K (both AI and Human), an additional subset of around 1500 AI_wikiart images used for validation, the original AI-pastiche DataSet, its recent extension (AI_pastiche_ext), and two subsets of the National Gallery of Art, respectively used in validation and testing. 
+
+## Pretrained models 
+Some shallow MLP models pretrained on scattering features. See the file <a href="torch_scattering_mlp.py">torch_scattering_mlp.py</a> for uploading.
