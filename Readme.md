@@ -1,3 +1,8 @@
+---
+paper: https://arxiv.org/abs/2608.25609
+repository: https://github.com/asperti/Interpreting_Human_AI_separability/edit/main/Readme.md
+---
+
 # Interpreting the separability of Human and AI images in CLIP's embedding space
 
 <p align=center>[under construction]</p>
