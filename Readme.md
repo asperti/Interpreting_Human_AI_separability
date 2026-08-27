@@ -2,8 +2,8 @@
 
 <p align=center>[under construction]</p>
 
-This notebook is a companion repository of the article "On the Separation of Human and AI-Generated
-Images in CLIP Embedding Space". 
+This notebook is a companion repository of the article <a href="https://arxiv.org/pdf/2608.25609">On the Separation of Human and AI-Generated
+Images in CLIP Embedding Space</a>. 
 
 We address a previously unreported phenomenon in CLIP representations:
 human and AI-generated paintings spontaneously separate along the dominant
